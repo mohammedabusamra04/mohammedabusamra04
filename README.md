@@ -102,7 +102,7 @@ A production-grade event registration platform built with a security-first, sche
 | **Performance** | Optimized query patterns via Sequelize with indexed relational schema |
 | **Security** | JWT auth, bcrypt password hashing, Helmet-hardened headers, custom validation engine |
 | **Impact** | Live production deployment on Render; used as freelance portfolio proof |
-| **Repository** | [CodeAlpha_EventRegistrationSystem](https://github.com/mohammedabusamra04/CodeAlpha_EventRegistrationSystem) |
+| **Repository** | [Event-Registration-System](https://github.com/mohammedabusamra04/Event-Registration-System) |
 
 **Engineering highlights:** Identified and documented a TOCTOU race condition in the seat registration flow due to lack of atomic locking, and built a custom schema-driven validation engine from scratch rather than relying on Joi. Enforced "verified purchase" logic for reviews and consolidated repeated ownership-check logic across controllers for SOLID compliance.
 
@@ -120,7 +120,7 @@ Short professional description of the project goes here.
 | **Performance** | e.g. optimized response time |
 | **Security** | e.g. auth, encryption, validation |
 | **Impact** | e.g. business/technical outcome |
-| **Repository** | [repo-name](https://github.com/mohammedabusamra04/repo-name) |
+| **Repository** | [My Profile](https://github.com/mohammedabusamra04/mohammedabusamra04) |
 
 Professional explanation of technical decisions and architecture.
 
